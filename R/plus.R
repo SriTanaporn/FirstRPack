@@ -6,8 +6,8 @@
 #' @return
 #' @export
 #'
-#' @examples 5+4 = 9
-plus <- function(a,b) {
-  c = a+b
-  return(c)
+#' @examples 5+4+2 = 11
+plus <- function(a,b,c) {
+  d = a+b+c
+  return(d)
 }

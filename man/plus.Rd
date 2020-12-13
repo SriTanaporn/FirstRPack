@@ -4,9 +4,9 @@
 \alias{plus}
 \title{A+B}
 \usage{
-plus(a, b)
+plus(a, b, c)
 
-plus(a, b)
+plus(a, b, c)
 }
 \arguments{
 \item{a}{interger}
@@ -22,5 +22,5 @@ a+b
 plus both variablllell
 }
 \examples{
-5+4 = 9
+5+4+2 = 11
 }
